@@ -51,12 +51,3 @@ You can ask the chatbot:
 - "What products are available in the chocolate category?"
 - "Is there a delivery option?"
 
----
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/yourusername/ecommerce-rag-chatbot.git
-cd ecommerce-rag-chatbot
-pip install -r requirements.txt
-python chatbot.py
